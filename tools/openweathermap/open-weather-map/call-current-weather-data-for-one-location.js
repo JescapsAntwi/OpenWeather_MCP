@@ -1,5 +1,5 @@
 /**
- * Function to get current weather data for a specified loc.
+ * Function to get current weather data for a specified lo.
  *
  * @param {Object} args - Arguments for the weather data request.
  * @param {string} [args.q] - City name for the weather query (e.g., "London").
